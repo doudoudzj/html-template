@@ -1,1 +1,1 @@
-# html-template
+# HTML template
